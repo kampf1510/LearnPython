@@ -19,6 +19,10 @@ y = 1.1
 
 t = "Hello World"
 
+#The value of b = True is a BOOL, short for boolean the value of this datatype may be True or False.
+
+b = True
+
 #If you're unsure of the datatype of a variable you can display it to the console by running the below command, replacing the x for the name of the variable.
 #To add a line of code which will not run, comment it out by typing # before the lines code, practice commenting out the code below then run it.
 
@@ -31,10 +35,6 @@ print(t)
 
 #Practice creating a variable named data and assign the value Python Pro to it then output the value of data to the terminal
 #Then ONLY output the datatype of the variable data to the terminal. 
-
-
-
-
 
 
 #END of Variables and Data Types 
