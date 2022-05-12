@@ -41,3 +41,6 @@ IM.s()
 
 # Create a new instance method with a name of Customer with two functions named firstname and lastname then print or
 # return the customer's first / last name and pass Jordan Matthews to the method.
+
+
+# End of Functions and Methods
